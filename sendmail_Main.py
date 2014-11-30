@@ -49,4 +49,3 @@ def sendemail(from_addr, to_addr_list, cc_addr_list,
 
 mail_subject = 'testing'
 readfromexcel('consumer_mailID.xls', mess_data)
-#sendemail('rejeeshchandran037@gmail.com','silverembeddedsolutions@gmail.com','archanaasweetgirl@gmail.com','hai','welcome to python server','rejeeshchandran037@gmail.com','leelachandran','smtp.gmail.com:587')
